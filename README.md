@@ -5,3 +5,7 @@ Habe es gefunden und es funktioniert ueber git remote.
 
 ##Neuer Ordner
 1. git init im git tutorial 2 folder
+
+## New Branch in local development
+
+1.Open push-existing-repository.txt in your editor.
