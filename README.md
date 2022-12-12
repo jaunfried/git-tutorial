@@ -9,3 +9,5 @@ Habe es gefunden und es funktioniert ueber git remote.
 ## New Branch in local development
 
 1.Open push-existing-repository.txt in your editor.
+
+"Keep trying to understand all the coding, pls god help me so that also this try will not fail. I'm scared and I regret that i tried something new in a field where i Have nearly 0 knowledge"
